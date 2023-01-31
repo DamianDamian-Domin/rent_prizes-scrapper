@@ -1,0 +1,10 @@
+source venv/Scripts/activate&cd rentprizes_scraper&cd rentprizes_scraper
+cd rentprizes_scraper
+cd rentprizes_scraper
+
+
+scrapy crawl krakow -o results/results_01_23/krakow.json
+scrapy crawl wroclaw -o results/results_01_23/wroclaw.json
+scrapy crawl warszawa -o results/results_01_23/warszawa.json
+scrapy crawl lodz -o results/results_01_23/lodz.json
+scrapy crawl poznan -o results/results_01_23/poznan.json

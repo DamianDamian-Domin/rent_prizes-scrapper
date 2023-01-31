@@ -1,0 +1,65 @@
+[
+  {
+    "district_name": "Poznań, Warszawskie",
+    "district_prizes": [0, 2312, 0, 0]
+  },
+  {
+    "district_name": "Poznań, Podolany",
+    "district_prizes": [0, 2250, 3011, 0]
+  },
+  { "district_name": "Poznań", "district_prizes": [0, 2700, 3785, 0] },
+  {
+    "district_name": "Poznań, Jeżyce",
+    "district_prizes": [1725, 2495, 3255, 0]
+  },
+  {
+    "district_name": "Poznań, Chartowo",
+    "district_prizes": [1766, 1931, 0, 0]
+  },
+  {
+    "district_name": "Poznań, Górczyn",
+    "district_prizes": [1912, 2335, 2857, 0]
+  },
+  { "district_name": "Poznań, Winiary", "district_prizes": [0, 2432, 0, 0] },
+  {
+    "district_name": "Poznań, Rataje",
+    "district_prizes": [1890, 2371, 2511, 0]
+  },
+  {
+    "district_name": "Poznań, Grunwald",
+    "district_prizes": [1936, 2472, 2819, 0]
+  },
+  { "district_name": "Poznań, Dębiec", "district_prizes": [1879, 2283, 0, 0] },
+  { "district_name": "Poznań, Łacina", "district_prizes": [1678, 2620, 0, 0] },
+  {
+    "district_name": "Poznań, Winogrady",
+    "district_prizes": [1433, 2651, 2265, 0]
+  },
+  { "district_name": "Poznań, Sołacz", "district_prizes": [0, 3242, 2700, 0] },
+  {
+    "district_name": "Poznań, Stare Miasto",
+    "district_prizes": [1908, 2356, 2769, 3120]
+  },
+  { "district_name": "Poznań, Łazarz", "district_prizes": [2034, 2450, 0, 0] },
+  {
+    "district_name": "Poznań, Wilda",
+    "district_prizes": [1645, 2567, 2900, 0]
+  },
+  {
+    "district_name": "Poznań, Piątkowo",
+    "district_prizes": [1736, 2167, 2321, 3675]
+  },
+  {
+    "district_name": "Poznań, Naramowice",
+    "district_prizes": [1567, 2021, 0, 0]
+  },
+  { "district_name": "Poznań, Śródka", "district_prizes": [0, 2600, 0, 0] },
+  { "district_name": "Poznań, Ogrody", "district_prizes": [0, 2021, 0, 0] },
+  { "district_name": "Poznań, Szczepankowo", "district_prizes": [0, 0, 0, 0] },
+  { "district_name": "Poznań, Junikowo", "district_prizes": [0, 0, 0, 0] },
+  { "district_name": "Poznań, Strzeszyn", "district_prizes": [0, 0, 0, 0] },
+  { "district_name": "Poznań, Komandoria", "district_prizes": [0, 0, 0, 0] },
+  { "district_name": "Poznań, Starołęka", "district_prizes": [0, 2372, 0, 0] },
+  { "district_name": "Poznań, Smochowice", "district_prizes": [0, 0, 0, 0] },
+  { "district_name": "Poznań, Ławica", "district_prizes": [0, 0, 0, 0] }
+]

@@ -1,0 +1,17 @@
+[
+  { "district_name": "Łódź, Bałuty", "district_prizes": [1586, 1990, 2734, 0] },
+  {
+    "district_name": "Łódź, Górna",
+    "district_prizes": [1501, 1930, 2510, 3257]
+  },
+  {
+    "district_name": "Łódź, Śródmieście",
+    "district_prizes": [1743, 2201, 3019, 3661]
+  },
+  { "district_name": "Łódź, Widzew", "district_prizes": [1639, 2188, 2710, 0] },
+  {
+    "district_name": "Łódź, Polesie",
+    "district_prizes": [1544, 2011, 2451, 3058]
+  },
+  { "district_name": "Łódź", "district_prizes": [0, 0, 0, 0] }
+]

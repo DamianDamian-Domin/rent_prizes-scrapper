@@ -1,0 +1,75 @@
+[
+  {
+    "district_name": "Kraków, Czyżyny",
+    "district_prizes": [1876, 3000, 3447, 0]
+  },
+  {
+    "district_name": "Kraków, Dębniki",
+    "district_prizes": [1998, 2557, 4361, 4660]
+  },
+  {
+    "district_name": "Kraków, Krowodrza",
+    "district_prizes": [2350, 2888, 3657, 3812]
+  },
+  {
+    "district_name": "Kraków, Prądnik Czerwony",
+    "district_prizes": [2086, 2763, 3380, 2960]
+  },
+  {
+    "district_name": "Kraków, Prądnik Biały",
+    "district_prizes": [2077, 2763, 3147, 8217]
+  },
+  {
+    "district_name": "Kraków, Grzegórzki",
+    "district_prizes": [2134, 3080, 4676, 0]
+  },
+  {
+    "district_name": "Kraków, Bronowice",
+    "district_prizes": [1929, 2753, 3124, 4833]
+  },
+  {
+    "district_name": "Kraków, Stare Miasto",
+    "district_prizes": [2390, 2763, 5238, 5550]
+  },
+  {
+    "district_name": "Kraków, Wzgórza Krzesławickie",
+    "district_prizes": [0, 2339, 0, 0]
+  },
+  { "district_name": "Kraków", "district_prizes": [2441, 2884, 0, 4513] },
+  {
+    "district_name": "Kraków, Zwierzyniec",
+    "district_prizes": [1684, 3364, 3988, 6715]
+  },
+  {
+    "district_name": "Kraków, Bieżanów-Prokocim",
+    "district_prizes": [1813, 2370, 2896, 0]
+  },
+  {
+    "district_name": "Kraków, Podgórze Duchackie",
+    "district_prizes": [1965, 2470, 2908, 0]
+  },
+  {
+    "district_name": "Kraków, Podgórze",
+    "district_prizes": [2178, 2880, 3762, 0]
+  },
+  {
+    "district_name": "Kraków, Łagiewniki-Borek Fałęcki",
+    "district_prizes": [1952, 2613, 3327, 0]
+  },
+  {
+    "district_name": "Kraków, Swoszowice",
+    "district_prizes": [1633, 2500, 0, 0]
+  },
+  {
+    "district_name": "Kraków, Mistrzejowice",
+    "district_prizes": [1771, 2627, 2926, 0]
+  },
+  {
+    "district_name": "Kraków, Bieńczyce",
+    "district_prizes": [1800, 2378, 2958, 0]
+  },
+  {
+    "district_name": "Kraków, Nowa Huta",
+    "district_prizes": [2011, 2551, 0, 0]
+  }
+]
